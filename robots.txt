@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://0xcyberpj.github.io/sitemap.xml.gz
+Sitemap: https://cyberpj.is-a.dev/retype/sitemap.xml.gz
