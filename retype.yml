@@ -32,3 +32,5 @@ snippets:
   lineNumbers:
     - json
     - rs
+start:
+  pro: true
