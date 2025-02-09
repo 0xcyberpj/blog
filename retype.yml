@@ -1,6 +1,6 @@
 input: ./
 output: .retype
-url: https://0xcyberpj.github.io/
+url: https://cyberpj.is-a.dev/retype
 
 branding:
   title: 0xcyberpj
@@ -27,7 +27,7 @@ footer:
   copyright: "&copy; {{ year }} - [0xcyberpj.is-a.dev](https://0xcyberpj.is-a.dev) - All rights reserved"
 
 editor:
-  enabled: false
+  enabled: true
 snippets:
   lineNumbers:
     - json
